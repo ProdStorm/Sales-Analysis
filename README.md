@@ -1,7 +1,10 @@
 # Sales-Analysis
 
 ## Table of Contents
-
+- [Project Overview](project-overview)
+- [Data Visualizations](data-visualizations)
+- [Insights](insights)
+  
 ### Project Overview
 This data analysis project seeks to analyze and understand the 2019 sales performance of a fictional company. It further seeks to investigate the product sales behind the increase/decrease of revenue across the months for all cities.
 
